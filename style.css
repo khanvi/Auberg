@@ -171,3 +171,15 @@ a h2{
 .flex p{
     color: #1d296a;
 }
+button{
+    height: 50px;
+    width: 100px;
+    background: #1d296a;
+    margin: auto;
+    color: aqua;
+    font-size: 14px;
+    border: 0;
+    border-radius: 60px
+}
+
+
