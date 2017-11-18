@@ -1,0 +1,173 @@
+           .main1 {
+               height: 1100px;
+               background: green;
+               text-align: center;
+               padding-top: 20px;
+               box-sizing: border-box
+           }
+           
+           .text1 {
+               color: white;
+               text-align: center;
+               width: 400px;
+               margin-left: auto;
+               margin-right: auto
+           }
+           
+           p1 {
+               font-size: 10px
+           }
+           
+           .flex1 {
+               display: flex;
+               margin-left: auto;
+               margin-right: auto;
+               width: 890px
+           }
+           .flex{
+               display: flex;
+
+           }
+           .marg1 {
+               margin-right: 70px
+           }
+           
+           .padd1 {
+               margin-top: 70px;
+           }
+           
+           .b1 {
+               background: white;
+               color: grey;
+               border-radius: 50px;
+               border: none;
+               margin-top: 40px;
+               padding-right: 15px;
+               padding-left: 15px;
+               padding-top: 10px;
+               padding-bottom: 10px
+           }
+           
+           body {
+               background-image: url(main.jpeg);
+               margin: 0;
+               color: white;
+               background-size: 100%
+           }
+           
+           .logo {
+               height: 100px;
+               width: 400px;
+               background: white;
+               color: #abc0e8;
+               margin-left: auto;
+               padding-left: 80px;
+               padding-top: 20px;
+               box-sizing: border-box;
+           }
+           
+           .headline {
+               height: 150px;
+               background: #abc0e8;
+               padding-left: 50px;
+               padding-top: 50px;
+               box-sizing: border-box;
+               font-size: 30px;
+               margin-bottom: 30px;
+           }
+           
+           .main {
+               margin-left: auto;
+               margin-right: auto;
+               width: 1200px;
+           }
+           
+           h2 {
+               margin: 0;
+           }
+           
+           .logop {
+               margin: 0;
+           }
+           
+           .flex {
+               display: flex;
+               margin-bottom: 30px
+           }
+           
+           .links {
+               width: 400px;
+               height: 300px;
+               margin-right: auto;
+               padding-left: 20px;
+               padding-right: 20px;
+               padding-top: 30px;
+               box-sizing: border-box
+           }
+           
+           .welcome {
+               width: 650px;
+               height: 300px;
+               background: #1d296a;
+               border: 3px solid #8b6d36;
+               box-sizing: border-box;
+               padding: 20px;
+           }
+           
+           .colomn {
+               height: 350px;
+               width: 350px;
+               background: #4972aa;
+               margin-left: auto;
+               margin-right: auto;
+               border: 3px solid #8b6d36;
+               box-sizing: border-box;
+               padding: 10px;
+               font-size: 20px
+           }
+           
+           .text {
+               margin-right: auto;
+           }
+           
+           .welcomeh2 {
+               font-size: 30px;
+           }
+           
+           .welcomep {
+               margin-left: 10px
+           }
+           
+           .welcomeimg {
+               height: 150px;
+               width: 150px;
+           }
+           
+           .indexa {    
+               color: white
+           }
+           
+           .margr {
+               margin-left: 100px;
+               margin-top: auto;
+               margin-bottom: auto
+           }
+           
+           .img22 {
+               height: 80px;
+               width: 80px
+           }
+           
+           a {
+               text-decoration: none
+           }
+.colomn p{
+    color: #abc0e8;
+}
+a h2{
+    color: #4972aa;
+    font-size: 20px
+}
+.flex p{
+    color: #1d296a;
+}
